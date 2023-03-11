@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rohan Mallick</h1>
-<h3 align="center">A aspiring Data Scientist from India</h3>
+<h3 align="center">Aspiring Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 <p align="left"> <a href="https://twitter.com/roh_1717" target="blank"><img src="https://img.shields.io/twitter/follow/roh_1717?logo=twitter&style=for-the-badge" alt="roh_1717" /></a> </p>
