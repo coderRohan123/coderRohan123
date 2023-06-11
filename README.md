@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Web dev**
 
 - 💬 Ask me about **pandas,numpy,frameworks related to data science**
 
